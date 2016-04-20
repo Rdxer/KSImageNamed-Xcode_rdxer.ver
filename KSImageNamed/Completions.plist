@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+    
+    <dict>
+        <key>classAndMethod</key>
+        <string>mage imageNamed:</string>
+        <key>methodDeclaration</key>
+        <string> skin:</string>
+        <key>methodName</key>
+        <string>skin</string>
+        <key>comment</key>
+        <string>Standard NSImage/UIImage method in Objective-C</string>
+    </dict>
+    
 	<dict>
 		<key>classAndMethod</key>
 		<string>mage imageNamed:</string>
